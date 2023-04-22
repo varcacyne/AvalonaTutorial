@@ -20,11 +20,14 @@
 /Users/nagykrisztian/.nuget/packages/avalonia.remote.protocol/0.10.18/lib/netstandard2.0/Avalonia.Remote.Protocol.dll
 /Users/nagykrisztian/.nuget/packages/avalonia.skia/0.10.18/lib/netstandard2.0/Avalonia.Skia.dll
 /Users/nagykrisztian/.nuget/packages/avalonia/0.10.18/lib/netcoreapp2.0/Avalonia.Styling.dll
+/Users/nagykrisztian/.nuget/packages/avalonia.svg.skia/0.10.18/lib/net6.0/Avalonia.Svg.Skia.dll
 /Users/nagykrisztian/.nuget/packages/avalonia/0.10.18/lib/netcoreapp2.0/Avalonia.Themes.Default.dll
 /Users/nagykrisztian/.nuget/packages/avalonia/0.10.18/lib/netcoreapp2.0/Avalonia.Themes.Fluent.dll
 /Users/nagykrisztian/.nuget/packages/avalonia/0.10.18/lib/netcoreapp2.0/Avalonia.Visuals.dll
 /Users/nagykrisztian/.nuget/packages/avalonia.win32/0.10.18/lib/netstandard2.0/Avalonia.Win32.dll
 /Users/nagykrisztian/.nuget/packages/avalonia.x11/0.10.18/lib/netstandard2.0/Avalonia.X11.dll
+/Users/nagykrisztian/.nuget/packages/excss/4.1.4/lib/net6.0/ExCSS.dll
+/Users/nagykrisztian/.nuget/packages/fizzler/1.2.1/lib/netstandard2.0/Fizzler.dll
 /Users/nagykrisztian/.nuget/packages/harfbuzzsharp/2.8.2.1-preview.108/lib/net6.0/HarfBuzzSharp.dll
 /Users/nagykrisztian/.nuget/packages/jetbrains.annotations/10.3.0/lib/netstandard1.0/JetBrains.Annotations.dll
 /Users/nagykrisztian/.nuget/packages/microsoft.codeanalysis.csharp/3.4.0/lib/netstandard2.0/Microsoft.CodeAnalysis.CSharp.dll
@@ -38,7 +41,12 @@
 /usr/local/share/dotnet/packs/Microsoft.NETCore.App.Ref/7.0.3/ref/net7.0/Microsoft.Win32.Registry.dll
 /usr/local/share/dotnet/packs/Microsoft.NETCore.App.Ref/7.0.3/ref/net7.0/mscorlib.dll
 /usr/local/share/dotnet/packs/Microsoft.NETCore.App.Ref/7.0.3/ref/net7.0/netstandard.dll
+/Users/nagykrisztian/.nuget/packages/shimskiasharp/0.5.18/lib/net6.0/ShimSkiaSharp.dll
 /Users/nagykrisztian/.nuget/packages/skiasharp/2.88.1-preview.108/lib/net6.0/SkiaSharp.dll
+/Users/nagykrisztian/.nuget/packages/skiasharp.harfbuzz/2.88.1-preview.108/lib/net6.0/SkiaSharp.HarfBuzz.dll
+/Users/nagykrisztian/.nuget/packages/svg.custom/0.5.18/lib/net6.0/Svg.Custom.dll
+/Users/nagykrisztian/.nuget/packages/svg.model/0.5.18/lib/net6.0/Svg.Model.dll
+/Users/nagykrisztian/.nuget/packages/svg.skia/0.5.18/lib/net6.0/Svg.Skia.dll
 /usr/local/share/dotnet/packs/Microsoft.NETCore.App.Ref/7.0.3/ref/net7.0/System.AppContext.dll
 /usr/local/share/dotnet/packs/Microsoft.NETCore.App.Ref/7.0.3/ref/net7.0/System.Buffers.dll
 /usr/local/share/dotnet/packs/Microsoft.NETCore.App.Ref/7.0.3/ref/net7.0/System.Collections.Concurrent.dll
